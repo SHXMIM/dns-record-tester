@@ -5,7 +5,7 @@ This is a tool which is used to check the records you want of a domain!!
 ### Usage
 
 ```
-git clone https://github.com/SHXMIM/Domain-records-tester.git
+git clone https://github.com/SHXMIM/dns-record-tester.git
 ```
 ```
 cd dns-record-tester
