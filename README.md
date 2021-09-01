@@ -26,7 +26,7 @@ press and option given above
 
 enter an domain!!!
 ```
-
+```
 [*] Press 1 Finding A Record 
 
 [*] Press 2 Finding AAAA Record
