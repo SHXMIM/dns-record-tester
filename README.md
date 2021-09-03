@@ -22,7 +22,7 @@ chmod 755 dns-record-tester.sh
 ./dns-record-tester.sh
 ```
 ```
-press and option given above
+press an option given above
 
 enter an domain!!!
 ```
